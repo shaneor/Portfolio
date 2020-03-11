@@ -12,6 +12,8 @@
 }
 
 
+
+
 .black{
     background-color: #f7f2ef;
     font-family: 'Canela-Thin';
@@ -79,9 +81,65 @@
 
 .hometype1{
     font-family: 'Canela-Thin';
-    font-size: 48px;
-    line-height: 65px;
+    font-size: 90px;
+    line-height: 95px;
     color: black;
+    text-align: center
+}
+
+.hometypecontact{
+    font-family: 'Canela-Thin';
+    font-size: 90px;
+    line-height: 110px;
+    color: black;
+    text-align: center
+}
+
+.hovercontact:hover{
+    font-family: 'Canela-Thin';
+    font-size: 90px;
+    line-height: 110px;
+    text-align: center;
+    color: #838383;
+    text-decoration: none !important;
+    
+}
+
+.hovercontact{
+    font-family: 'Canela-Thin';
+    font-size: 90px;
+    line-height: 110px;
+    text-align: center;
+    color: black;
+    text-decoration: none !important;
+    
+}
+
+.hometype2{
+    font-family: 'Graphik-Thin';
+    font-size: 32px;
+    line-height: 40px;
+    color: black;
+    text-align: center
+}
+
+.numbers{
+    font-family: 'Graphik-Thin';
+    font-size: 32px;
+    line-height: 46px;
+    color: black;
+}
+
+.numbercol{
+    margin-left: -55px;
+}
+
+.numbercol2{
+    margin-left: -15px;
+}
+
+.numbercol3{
+    margin-left: 0px;
 }
 
 .homerow{
@@ -91,10 +149,88 @@
 }
 
 .homerow1{
-    padding-left: 170px;
-    padding-top: 205px;
+    padding-left: 0px;
+    padding-top: 190px;
     background-color: #f7f2ef;
 }
+
+.homerowcontact{
+    padding-left: 0px;
+    padding-top: 160px;
+    background-color: #f7f2ef;
+}
+
+.homerow2{
+    padding-left: 10px;
+    padding-top: 20px;
+    background-color: #f7f2ef;
+    
+}
+
+
+.startertype{
+    font-family: 'Canela-Thin';
+    font-size: 48px;
+    line-height: 65px;
+    color: black;
+}
+
+.startertype1{
+    font-family: 'Canela-Thin';
+    font-size: 48px;
+    line-height: 65px;
+    color: black;
+}
+
+.startertype:hover{
+    font-family: 'Canela-Thin';
+    font-size: 48px;
+    line-height: 65px;
+    color: #838383;
+    text-decoration: none !important;
+}
+
+.startertype2{
+    font-family: 'Graphik-Thin';
+    font-size: 32px;
+    line-height: 32px;
+    color: black;
+}
+
+.startertype3{
+    font-family: 'Canela-Thin';
+    font-size: 33px;
+    line-height: 46px;
+    color: black;
+}
+
+.starterrow{
+    margin-left: 157px;
+}
+
+.mainrow{
+    padding-top: 100px;
+    margin-left: 157px;
+}
+
+.starterrow2{
+    margin-left: 157px;
+    padding-top: 15px;
+}
+
+.starterrow3{
+    margin-left: 157px;
+    padding-top: 25px;
+}
+
+.spacing{
+    font-family: 'Graphik-Thin';
+    font-size: 32px;
+    line-height: 32px;
+    color: black;
+    letter-spacing: 7px;
+}
+
 
 .graphiklrg{
     font-family: 'Graphik-ThinItalic';
@@ -160,6 +296,12 @@
 .blankrow{
     background-color: #f7f2ef;
     padding-top: 210px;
+    
+}
+
+.blankrow2{
+    background-color: #f7f2ef;
+    padding-top: 150px;
     
 }
 
@@ -317,7 +459,7 @@
 }
 
 .finaloutcome{
-    padding-top: 60px;
+    padding-top: 160px;
 }
 
 .packagingtype1{
@@ -732,6 +874,7 @@
     margin-top: 90px;
     
     
+    
 
     
     
@@ -1012,7 +1155,7 @@
 }
 
 .book1mobile{
-    padding-top: 20px;
+    padding-top: 10px;
     padding-left: 38px;
 }
 
@@ -1275,6 +1418,11 @@
     padding-left: 30px;
     padding-top: 30px;
 }
+    
+ .packagingtypemobile4{
+    padding-left: 30px;
+    padding-top: 30px;
+}
 
 .privacymobile{
     padding-top: 10px;
@@ -1304,9 +1452,19 @@
     margin-left: -41px;
 }
 
+.contacttype{
+    font-family: 'Canela-Thin';
+    font-size: 23px;
+    line-height: 37px;
+    color: black;  
+    }
 
-
-
+.eriutypemobile3{
+    font-family: 'Graphik-Thin';
+    font-size: 23px;
+    line-height: 37px;
+    color: black;
+}
 
 }
 
